@@ -1,3 +1,5 @@
+# Refactored version of template from https://clean-swift.com/
+
 To learn more about Clean Swift and the VIP cycle, read:
 
 http://clean-swift.com/clean-swift-ios-architecture
