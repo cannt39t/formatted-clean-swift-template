@@ -1,4 +1,6 @@
-# Refactored version of template from https://clean-swift.com/
+# Clean Swift Template
+
+## This is refactored version of template from https://clean-swift.com/
 
 To learn more about Clean Swift and the VIP cycle, read:
 
